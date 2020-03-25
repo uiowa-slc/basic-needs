@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dcf1070b736bb7883dc78df43364d2ae",
+    "content-hash": "c9d5b98fb3f08252925be41d96044d7e",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1292,16 +1292,16 @@
         },
         {
             "name": "md/division-project",
-            "version": "2.x-dev",
+            "version": "dev-2-topicholder-more-topics-layout-change",
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "b98ad7b52603391731d113bff8a3011bdba206fc"
+                "reference": "458e76e23296c783b7a53574c417e5add46d7e3d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b98ad7b52603391731d113bff8a3011bdba206fc",
-                "reference": "b98ad7b52603391731d113bff8a3011bdba206fc",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/458e76e23296c783b7a53574c417e5add46d7e3d",
+                "reference": "458e76e23296c783b7a53574c417e5add46d7e3d",
                 "shasum": ""
             },
             "require": {
@@ -1344,10 +1344,10 @@
             },
             "description": "The University of Iowa Division of Student Life Project Code and Theme",
             "support": {
-                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2",
+                "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-topicholder-more-topics-layout-change",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-03-24T18:50:35+00:00"
+            "time": "2020-03-25T03:43:47+00:00"
         },
         {
             "name": "md/saml",
@@ -5832,7 +5832,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "md/division-project": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
