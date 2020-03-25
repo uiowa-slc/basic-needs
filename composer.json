@@ -4,7 +4,7 @@
     "description": "The SilverStripe Framework Installer",
     "require": {
         "php": ">=7.2.0",
-        "md/division-project": "dev-2-topicholder-more-topics-layout-change"
+        "md/division-project": "2.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7"
