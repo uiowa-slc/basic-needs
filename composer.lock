@@ -1296,12 +1296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "f7be62b438223e57cf9038e8c2868b002d258126"
+                "reference": "334cec12e31392124bf06d38fc0615c0aedbd508"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/f7be62b438223e57cf9038e8c2868b002d258126",
-                "reference": "f7be62b438223e57cf9038e8c2868b002d258126",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/334cec12e31392124bf06d38fc0615c0aedbd508",
+                "reference": "334cec12e31392124bf06d38fc0615c0aedbd508",
                 "shasum": ""
             },
             "require": {
@@ -1347,7 +1347,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-03-30T19:32:28+00:00"
+            "time": "2020-03-31T19:46:34+00:00"
         },
         {
             "name": "md/saml",
@@ -1423,12 +1423,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode.git",
-                "reference": "2c6263e47d6d70ca565f2f7b506971379201e070"
+                "reference": "14e8d32deead06e586974868c1b2da30d9ba6b64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode/zipball/2c6263e47d6d70ca565f2f7b506971379201e070",
-                "reference": "2c6263e47d6d70ca565f2f7b506971379201e070",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode/zipball/14e8d32deead06e586974868c1b2da30d9ba6b64",
+                "reference": "14e8d32deead06e586974868c1b2da30d9ba6b64",
                 "shasum": ""
             },
             "require": {
@@ -1479,7 +1479,7 @@
                 "issues": "http://github.com/dljoseph/silverstripe-maintenance-mode/issues",
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-maintenance-mode/tree/master"
             },
-            "time": "2019-06-11T18:38:30+00:00"
+            "time": "2020-03-30T21:44:08+00:00"
         },
         {
             "name": "md/uiowa-bar",
