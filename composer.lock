@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "95dab55cdefbe024ade419fd50367bc5",
+    "content-hash": "410848910dba30ba97e1b85707489766",
     "packages": [
         {
             "name": "bramus/ansi-php",
@@ -1314,12 +1314,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "2616acadeb78a4262bc3725cacab39f7744213c0"
+                "reference": "0dcd5e7ed3306139654438d643bff6aaf3855688"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/2616acadeb78a4262bc3725cacab39f7744213c0",
-                "reference": "2616acadeb78a4262bc3725cacab39f7744213c0",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/0dcd5e7ed3306139654438d643bff6aaf3855688",
+                "reference": "0dcd5e7ed3306139654438d643bff6aaf3855688",
                 "shasum": ""
             },
             "require": {
@@ -1368,7 +1368,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2-branding",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2020-10-07T20:30:03+00:00"
+            "time": "2020-10-13T19:28:26+00:00"
         },
         {
             "name": "md/saml",
