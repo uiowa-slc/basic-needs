@@ -4,7 +4,7 @@
     "description": "The SilverStripe Framework Installer",
     "require": {
         "php": ">=7.2.0",
-        "md/division-project": "dev-2-branding",
+        "md/division-project": "3.*",
         "sunra/php-simple-html-dom-parser": "1.5.*",
         "paquettg/php-html-parser": "^2.2"
     },
